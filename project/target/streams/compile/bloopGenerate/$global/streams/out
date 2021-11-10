@@ -1,0 +1,4 @@
+[debug] [teatime-build] Classpath dependencies List()
+[debug] [teatime-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'teatime-build' to '/Users/spencerkward/code/spencer/teatime/project/.bloop/teatime-build.json'
+[success] Generated .bloop/teatime-build.json
